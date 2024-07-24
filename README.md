@@ -1,7 +1,7 @@
 <h1>Meu Primeiro Projeto Fullstack </h1>
 Bem-vindo ao repositório do meu primeiro projeto Fullstack! Este é um projeto básico desenvolvido com o objetivo de aprender e praticar habilidades tanto no front-end quanto no back-end.
 
-  <h4>Descrição </h4>
+  <h4>Descrição 📋 </h4>
     Este projeto é uma aplicação web simples que permite aos usuários realizar tarefas de gerenciamento de contatos básicas.
   <h4>Tecnologias Utilizadas </h4>
     <b><h4>Front-end </h4></b>
