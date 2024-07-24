@@ -16,6 +16,9 @@ Bem-vindo ao repositório do meu primeiro projeto Fullstack! Este é um projeto 
         <li><b>Banco de Dados:</b> MySQL.</li>
       </ul>
   <h3>Funcionalidades ✅ </h3>
-    <b>Gerenciamento de Tarefas:</b> Funcionalidades CRUD (Create, Read, Update, Delete) para contatos.
+    <ul>
+      <li><b>Gerenciamento de Tarefas:</b> Funcionalidades CRUD (Create, Read, Update, Delete) para contatos.</li>
+    </ul>
+    
   <h3>Contribuições ☀️ </h3>
     Este é um projeto de aprendizado, então sinta-se à vontade para fazer sugestões, relatar bugs ou enviar pull requests.
