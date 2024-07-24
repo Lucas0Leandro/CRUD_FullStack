@@ -5,12 +5,16 @@ Bem-vindo ao repositório do meu primeiro projeto Fullstack! Este é um projeto 
     Este projeto é uma aplicação web simples que permite aos usuários realizar tarefas de gerenciamento de contatos básicas.
   <h4>Tecnologias Utilizadas 💻 </h4>
     <b><h4>Front-end </h4></b>
-      <b>HTML/CSS:</b> Estrutura e estilos básicos da aplicação.<br>
-      <b>JavaScript:</b> Funcionalidades interativas e dinâmicas.<br>
-      <b>Framework/Biblioteca:</b> React.
+      <ul>
+        <li><b>HTML/CSS:</b> Estrutura e estilos básicos da aplicação.<br></li>
+        <li><b>JavaScript:</b> Funcionalidades interativas e dinâmicas.<br></li>
+        <li><b>Framework/Biblioteca:</b> React.</li>
+      </ul>
     <b><h4>Back-end </h4></b>
-      <b>Node.js:</b> Ambiente de execução do JavaScript no servidor.<br>
-      <b>Banco de Dados:</b> MySQL.
+      <ul>
+        <li><b>Node.js:</b> Ambiente de execução do JavaScript no servidor.<br></li>
+        <li><b>Banco de Dados:</b> MySQL.</li>
+      </ul>
   <h4>Funcionalidades ✅ </h4>
     <b>Gerenciamento de Tarefas:</b> Funcionalidades CRUD (Create, Read, Update, Delete) para contatos.
   <h4>Contribuições ☀️ </h4>
